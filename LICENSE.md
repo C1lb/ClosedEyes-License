@@ -1,4 +1,4 @@
-ClosedEyes Custom License (ClosedEyes) v1.0
+ClosedEyes Custom License (CEL) v1.0
 
 Copyright (c) [YEAR] [YOUR NAME]
 All Rights Reserved.
